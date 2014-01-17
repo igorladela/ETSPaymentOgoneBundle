@@ -1,9 +1,9 @@
 {
-    "name": "ets/payment-ogone-bundle",
+    "name": "loader/payment-ogone-bundle",
     "type": "symfony-bundle",
     "description": "Payment Bundle providing access to Ogone gateway",
     "keywords": ["payment", "ogone"],
-    "homepage": "https://github.com/ETSGlobal/ETSPaymentOgoneBundle",
+    "homepage": "https://github.com/igorladela/ETSPaymentOgoneBundle",
     "license": "Apache2",
     "authors": [
         {
